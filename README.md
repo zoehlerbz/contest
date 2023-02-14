@@ -28,3 +28,5 @@ Using ConTest is simple and straightforward. To get started, simply launch the a
 ## Conclusion
 
 ConTest is the perfect solution for anyone looking to measure the quality of their internet connection. Whether you're a nomadic digital worker, a property owner, or a general user, our application has the features you need to stay informed about your internet quality. So why wait? Try ConTest today and take control of your internet connection.
+
+![logo](https://user-images.githubusercontent.com/63124386/218765720-30b04d8d-dadf-4683-9bd8-9c3eedbe8d99.svg)
